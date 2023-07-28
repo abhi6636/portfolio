@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ad3ecc88.css",
-    "main.js": "/portfolio/static/js/main.6747f632.js",
+    "main.js": "/portfolio/static/js/main.2507bae3.js",
     "static/media/tour04.png": "/portfolio/static/media/tour04.9e32cfbb8c61e361367a.png",
     "static/media/tour07.png": "/portfolio/static/media/tour07.6a5c7f360de5f5f9e605.png",
     "static/media/tour02.png": "/portfolio/static/media/tour02.eb25ed11ce383d415b56.png",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.ad3ecc88.css",
-    "static/js/main.6747f632.js"
+    "static/js/main.2507bae3.js"
   ]
 }
