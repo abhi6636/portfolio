@@ -1,19 +1,25 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ad3ecc88.css",
-    "main.js": "/portfolio/static/js/main.edbc7fca.js",
+    "main.js": "/portfolio/static/js/main.944d4041.js",
     "static/media/tour04.png": "/portfolio/static/media/tour04.9e32cfbb8c61e361367a.png",
     "static/media/tour07.png": "/portfolio/static/media/tour07.6a5c7f360de5f5f9e605.png",
     "static/media/tour02.png": "/portfolio/static/media/tour02.eb25ed11ce383d415b56.png",
     "static/media/itcity-5.png": "/portfolio/static/media/itcity-5.315d9199a55c142cba8c.png",
     "static/media/tour12.png": "/portfolio/static/media/tour12.96596ec3384b28a30d66.png",
     "static/media/tour10.png": "/portfolio/static/media/tour10.30ce5b43ccd85cb669d9.png",
+    "static/media/img01.png": "/portfolio/static/media/img01.b7512f2a3011a338d623.png",
     "static/media/tour03.png": "/portfolio/static/media/tour03.441658b621d078877456.png",
     "static/media/tour01.png": "/portfolio/static/media/tour01.9643ce3bb9ed689a74be.png",
     "static/media/itcity-1.png": "/portfolio/static/media/itcity-1.f46eaa515856c4636829.png",
     "static/media/itcity-4.png": "/portfolio/static/media/itcity-4.c4a917cb3c0e4b93a19f.png",
+    "static/media/img06.png": "/portfolio/static/media/img06.2d33244a837eb3355a7d.png",
+    "static/media/img04.png": "/portfolio/static/media/img04.681907fd6e9c8d1b46bc.png",
     "static/media/tour05.png": "/portfolio/static/media/tour05.6c3bd4c83d7c298c2419.png",
     "static/media/tour06.png": "/portfolio/static/media/tour06.98d0bdcedf85cf46ca67.png",
+    "static/media/img05.png": "/portfolio/static/media/img05.6752ad58570a6e2ef0bc.png",
+    "static/media/img03.png": "/portfolio/static/media/img03.f232ee69643f0156f173.png",
+    "static/media/img02.png": "/portfolio/static/media/img02.dad4b6046c65b53b2cf9.png",
     "static/media/tour08.png": "/portfolio/static/media/tour08.44590cdebae5672ac2ff.png",
     "static/media/tour13.png": "/portfolio/static/media/tour13.2f5c562f93a60a80f51d.png",
     "static/media/tour09.png": "/portfolio/static/media/tour09.77f3df88dc5cf23754ed.png",
@@ -26,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.ad3ecc88.css",
-    "static/js/main.edbc7fca.js"
+    "static/js/main.944d4041.js"
   ]
 }
