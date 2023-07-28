@@ -16,7 +16,7 @@ const Hospitalmgmt = () => {
       <Container className="About-header">
         <Helmet>
           <meta charSet="utf-8" />
-          <title> Elixir Healthcare | Case Study </title>
+          <title> Elixir Healthcare | Case Study. </title>
         </Helmet>
         <div>
           <Link to="/portfolio">Back</Link>
