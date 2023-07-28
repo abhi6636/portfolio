@@ -3,6 +3,13 @@ import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
+import img01 from "./assets/Hospital/img01.png";
+import img02 from "./assets/Hospital/img02.png";
+import img03 from "./assets/Hospital/img03.png";
+import img04 from "./assets/Hospital/img04.png";
+import img05 from "./assets/Hospital/img05.png";
+import img06 from "./assets/Hospital/img06.png";
+
 const Hospitalmgmt = () => {
   return (
     <HelmetProvider>
@@ -241,26 +248,26 @@ const Hospitalmgmt = () => {
 
       <div className="p-5">
         <div className="flux row image-container">
-          {/* <h3 className="display-4 mb-4">Screenshots</h3>
+          <h3 className="display-4 mb-4">Screenshots</h3>
           <hr className="t_border my-4 ml-0 text-left" />
           <div className="col">
-            <img src="" alt="" className="screenshot" />
+            <img src={img01} alt="" className="screenshot" />
           </div>
           <div className="col">
-            <img src="" alt="" className="screenshot" />
+            <img src={img02} alt="" className="screenshot" />
           </div>
           <div className="col">
-            <img src="" alt="" className="screenshot" />
+            <img src={img03} alt="" className="screenshot" />
           </div>
           <div className="col">
-            <img src="" alt="" className="screenshot" />
+            <img src={img04} alt="" className="screenshot" />
           </div>
           <div className="col">
-            <img src="" alt="" className="screenshot" />
+            <img src={img05} alt="" className="screenshot" />
           </div>
           <div className="col">
-            <img src="" alt="" className="screenshot" />
-          </div> */}
+            <img src={img06} alt="" className="screenshot" />
+          </div>
         </div>
       </div>
     </HelmetProvider>
